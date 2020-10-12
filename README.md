@@ -185,7 +185,7 @@
 </body>
 </html>
 
-
+<css>
 * 
 {
     margin:0;
@@ -436,6 +436,6 @@ body
     color: #9153c9;
 }   
 
-    
+</css>    
 
 
